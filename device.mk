@@ -51,4 +51,4 @@ PRODUCT_SOONG_NAMESPACES += \
 $(call inherit-product, device/oneplus/sm8550-common/common.mk)
 
 # Inherit from the proprietary files makefile.
-$(call inherit-product, vendor/oneplus/aston/aston-vendor.mk)
+$(call inherit-product, vendor/oneplus/xueying/xueying-vendor.mk)

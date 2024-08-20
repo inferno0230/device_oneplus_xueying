@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_aston.mk
+    $(LOCAL_DIR)/aosp_xueying.mk
