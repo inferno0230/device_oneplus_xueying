@@ -409,11 +409,4 @@
          -->
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
 
-    <!-- The properties of a UDFPS sensor in pixels, in the order listed below: -->
-    <integer-array name="config_udfps_sensor_props" translatable="false" >
-        <item>632</item>  <!-- <item>sensorLocationX</item> -->
-        <item>2025</item> <!-- <item>sensorLocationY</item> -->
-        <item>98</item>  <!-- <item>sensorRadius</item> -->
-    </integer-array>
-
 </resources>
