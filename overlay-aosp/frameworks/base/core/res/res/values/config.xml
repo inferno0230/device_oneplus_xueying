@@ -10,4 +10,7 @@
     <!-- Whether device has an alert slider -->
     <bool name="config_hasAlertSlider" translatable="false">true</bool>
 
+    <!-- Indicates whether device has a power button fingerprint sensor. -->
+    <bool name="config_is_powerbutton_fps" translatable="false">true</bool>
+
 </resources>
