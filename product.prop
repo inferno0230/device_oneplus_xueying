@@ -1,1 +1,4 @@
+# Display
+ro.surface_flinger.primary_display_orientation=ORIENTATION_270
+
 persist.settings.large_screen_opt.enabled=true
