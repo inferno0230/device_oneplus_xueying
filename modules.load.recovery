@@ -219,6 +219,8 @@ nb7vpq904m.ko
 oplus_bsp_tp_comon.ko
 oplus_bsp_tp_custom.ko
 oplus_bsp_tp_notify.ko
+oplus_bsp_tp_goodix_comnon.ko
+oplus_bsp_tp_gt9966.ko
 pm8941-pwrkey.ko
 qcom-hv-haptics.ko
 uff_fp_driver.ko
@@ -226,7 +228,6 @@ i2c-msm-geni.ko
 i3c-master-msm-geni.ko
 qcom_ipc_lite.ko
 synx-driver.ko
-synaptics_tcm2.ko
 qcom-pon.ko
 reboot-mode.ko
 oplus_chg.ko
